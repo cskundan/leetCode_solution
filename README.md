@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/cskundan/leetCode_solution/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/cskundan/leetCode_solution/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/cskundan/leetCode_solution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/cskundan/leetCode_solution/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/cskundan/leetCode_solution/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cskundan/leetCode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/cskundan/leetCode_solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cskundan/leetCode_solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/cskundan/leetCode_solution/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cskundan/leetCode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/cskundan/leetCode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/cskundan/leetCode_solution/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/cskundan/leetCode_solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cskundan/leetCode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/cskundan/leetCode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -30,12 +32,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cskundan/leetCode_solution/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/cskundan/leetCode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cskundan/leetCode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/cskundan/leetCode_solution/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/cskundan/leetCode_solution/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/cskundan/leetCode_solution/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->

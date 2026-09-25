@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/cskundan/leetCode_solution/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/cskundan/leetCode_solution/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/cskundan/leetCode_solution/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cskundan/leetCode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/cskundan/leetCode_solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/cskundan/leetCode_solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
